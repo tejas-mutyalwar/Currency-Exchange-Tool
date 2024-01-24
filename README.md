@@ -21,4 +21,4 @@
 
 ## Glimpses of the App
 
-  ![Screenshot (73)](https://github.com/tejas-mutyalwar/Currency-Exchange-Tool/assets/59694591/7241ab45-5efe-43f6-b0fb-2c3f0c1ded21)
+  ![Screenshot (73) copy](https://github.com/tejas-mutyalwar/Currency-Exchange-Tool/assets/59694591/8ab68bac-1339-4772-a00c-a1e098fab676)
